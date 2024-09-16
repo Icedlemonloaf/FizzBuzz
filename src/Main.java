@@ -1,7 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        FizzBuzz.doFizzBuzz(5);
-        FizzBuzz.main(args);
-        FizzBuzz.doFizzBuzz(101);
-    }
+
+public static void main(String[] args) {
+    FizzBuzz.doFizzBuzz(15);
+    FizzBuzz.doFizzBuzz(5);
 }
